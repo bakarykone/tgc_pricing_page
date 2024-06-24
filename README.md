@@ -4,6 +4,8 @@ KONE Bakary
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Created with [Material UI](https://mui.com/material-ui/getting-started/installation/), Typescript
+
 ## 1. Clôner ce projet
 
 ```bash
