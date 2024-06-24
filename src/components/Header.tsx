@@ -1,10 +1,10 @@
 import React from 'react';
 import { Box, Typography } from '@mui/material';
 
-const Header: React.FC = () => {
+const Header = () => {
   return (
     <Box textAlign="center">
-      <Typography variant="h4" fontWeight="bold">
+      <Typography variant="h3" fontWeight="bold">
         DÉCOUVREZ <span style={{ color: '#3F5EFB' }}>NOS OFFRES</span>
       </Typography>
       <Typography variant="subtitle1" color="textSecondary" mt={2} boxSizing={'border-box'}>
