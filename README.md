@@ -6,19 +6,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Created with [Material UI](https://mui.com/material-ui/getting-started/installation/), Typescript
 
-## 1. Clôner ce projet
+## 1. Clôner ce projet // Cloning this project
 
 ```bash
 git clone https://github.com/bakarykone/tgc_pricing_page.git ./tgc_pricing_page
 ```
 
-## 2. Installer les dépendances
+## 2. Installer les dépendances // Dependencies Installation
 ```bash
 cd tgc_pricing_page
 npm install
 ```
 
-### 3. Lancement de l'application avec sur `npm start`
+### 3. Lancement de l'application avec // App running with `npm start`
 ```bash
 npm run start
 ```
